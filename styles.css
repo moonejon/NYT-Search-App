@@ -1,0 +1,17 @@
+#header {
+  background-color: black;
+  padding: 100px;
+  margin-bottom: 50px;
+}
+
+#header-text {
+  text-align: center;
+  color: white;
+  font-size: 32pt;
+  font-weight: bold;
+}
+
+.card {
+  max-width: 800px;
+  margin: auto;
+}
